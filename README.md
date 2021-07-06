@@ -3,4 +3,5 @@
 
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me sober.sabin@gmail.com
+- for data analytic dashboard:-https://public.tableau.com/profile/sabin.sapkota
 
